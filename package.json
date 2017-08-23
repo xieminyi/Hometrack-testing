@@ -8,7 +8,7 @@
     "start": "node server/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Minyi Xie",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
